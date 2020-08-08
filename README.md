@@ -1,11 +1,12 @@
 ### :octocat: Hey there, I'm Sivanandh -  👋      ![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
 
-## Developer, Competitive Programmer, Creator, H4CK3R!
-- 👨🏻‍💻 I'm in Love with Programming, Hacking and App Development!
-- :zap: I'm a tech enthusiastic person!
-- :star:I'm able to work well with 
-- :sunny: I’m looking to collaborate with App Development projects
-- :snake:I’m currently learning Python!
+## 💢 Developer, Competitive Programmer, Creator, H4CK3R! 👤
+
+- 🖥️ I'm in Love with Programming, Hacking and App Development!
+- 🌈 I'm a tech enthusiastic person!
+- 🌀 I’m looking to collaborate with App Development projects
+- 🐍 I’m currently learning Python!
+
 ## 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href=""><img height="29" src="https://github.com/Sivanandhpp/Sivanandhpp/blob/master/assets/c.jpg"></a>&nbsp;
