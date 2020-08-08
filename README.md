@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-<a href="sivanandhpp@gmail.com">
+<a href="https://sivanandhpp@gmail.com">
 <img src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/gmail.png" width="60">
 </a>
 <a href="https://www.linkedin.com/in/sivanandh/">
