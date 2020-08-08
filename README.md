@@ -1,7 +1,7 @@
 ### Hey there, I'm Sivanandh PP -  👋
 
 ## Ambitious Software Engineer!
-- 🔭 I'm Skilled in Programming, Problem-solving and App Development!
+- :fire: I'm Skilled in Programming, Problem-solving and App Development!
 - ⚡ I'm an enthusiastic, responsible and hardworking person!
 - 🌱I'm able to work well both in a team environment as well as my own initiative.!
 - 👯 I’m looking to collaborate with other content creators
