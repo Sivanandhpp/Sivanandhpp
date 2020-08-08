@@ -1,13 +1,13 @@
-### Hey there, I'm Sivanandh PP -  👋
+### :octocat: Hey there, I'm Sivanandh -  👋
 
-## Ambitious Software Engineer!
+## Developer, Competitive Programmer, Creator, H4CK3R!
 - :fire: I'm Skilled in Programming, Problem-solving and App Development!
-- ⚡ I'm an enthusiastic, responsible and hardworking person!
-- 🌱I'm able to work well both in a team environment as well as my own initiative.!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🤣I’m currently learning everything 
+- :zap: I'm an enthusiastic, responsible and hardworking person!
+- :star:I'm able to work well both in a team environment as well as my own initiative!
+- :sunny: I’m looking to collaborate with App Development projects
+- :snake:I’m currently learning Python!
 
+![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
 
 ### Connect with me:
 
