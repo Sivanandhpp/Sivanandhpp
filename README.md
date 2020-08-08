@@ -7,7 +7,7 @@
 - :sunny: I’m looking to collaborate with App Development projects
 - :snake:I’m currently learning Python!
 
-![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
+  ![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
 
 - 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;
