@@ -1,13 +1,20 @@
 ### :octocat: Hey there, I'm Sivanandh -  👋
 
 ## Developer, Competitive Programmer, Creator, H4CK3R!
-- :fire: I'm Skilled in Programming, Problem-solving and App Development!
-- :zap: I'm an enthusiastic, responsible and hardworking person!
-- :star:I'm able to work well both in a team environment as well as my own initiative!
+- 👨🏻‍💻 I'm in Love with Programming, Hcking and App Development!
+- :zap: I'm a tech enthusiastic person!
+- :star:I'm able to work well with 
 - :sunny: I’m looking to collaborate with App Development projects
 - :snake:I’m currently learning Python!
 
 ![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
+
+- 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;
+<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&nbsp;
+<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>&nbsp;
+<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;
+<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>&nbsp;
 
 ### Connect with me:
 
