@@ -20,7 +20,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/sivanandh/">
-<img height="29" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/linkedin-circle.png" width="60">
+<img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/linkedin-circle.png" width="60">
 </a>
 <a href="https://www.instagram.com/siva_nandh">
 <img height="29" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/instagram-circle.png" width="60">
