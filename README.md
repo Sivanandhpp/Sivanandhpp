@@ -3,9 +3,10 @@
 ## 💢 Developer, Competitive Programmer, Creator, H4CK3R! 👤
 
 - 🖥️ I'm in Love with Programming, Hacking and App Development!
+- 🌀 looking to collaborate with App Development projects.
 - 🌈 I'm a tech enthusiastic person!
-- 🌀 I’m looking to collaborate with App Development projects
-- 🐍 I’m currently learning Python!
+- 💡 Ask me about any tech related stuff.
+- 🔥 I’m currently learning Everything!
 
 ## 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -13,6 +14,7 @@
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;
+<a href=""><img height="26" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></a>&nbsp;
 <a href=""><img height="28" src="https://github.com/Sivanandhpp/Sivanandhpp/blob/master/assets/jup.png"></a>&nbsp;
 <a href=""><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&nbsp;
