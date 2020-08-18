@@ -34,5 +34,4 @@
 <img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/twitter-circle.png" width="60">
 </a>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sivanandhpp&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanandhpp&hide=Objective-c,Ruby,Kotlin)]
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sivanandhpp&show_icons=true&hide_border=true" />
