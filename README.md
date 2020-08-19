@@ -1,37 +1,31 @@
-### :octocat: Hey there, I'm Sivanandh -  👋      ![](https://komarev.com/ghpvc/?username=Sivanandhpp&color=blue)
+<h1 align="center">Hello 👋, I'm Sivanandh PP</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 💢 Developer, Competitive Programmer, Creator, H4CK3R! 👤
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanandhpp" alt="sivanandhpp" /> </p>
 
-- 🖥️ I'm in Love with Programming, Hacking and App Development!
-- 🌀 looking to collaborate with App Development projects.
-- 🌈 I'm a tech enthusiastic person!
-- 💡 Ask me about any tech related stuff.
-- 🔥 I’m currently learning Everything!
+- 🔭 I’m currently working on [My Portfolio Website](https://sivanandhpp.github.io/)
 
-## 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 🌱 I’m currently learning **Java**
 
-<a href=""><img height="29" src="https://github.com/Sivanandhpp/Sivanandhpp/blob/master/assets/c.jpg"></a>&nbsp;
-<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>&nbsp;
-<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;
-<a href=""><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg"></a>&nbsp;
-<a href=""><img height="28" src="https://github.com/Sivanandhpp/Sivanandhpp/blob/master/assets/jup.png"></a>&nbsp;
-<a href=""><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;
-<a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&nbsp;
+- 👯 I’m looking to collaborate on **App Development**
 
-### Connect with me:
+- 🤝 I’m looking for help with **Java**
 
-<a href="https://www.linkedin.com/in/sivanandh/">
-<img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/linkedin-circle.png" width="60">
-</a>
-<a href="https://www.instagram.com/siva_nandh">
-<img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/instagram-circle.png" width="60">
-</a>   
-<a href="https://www.facebook.com/i.sivanandh">
-<img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/facebook-circle.png" width="60">
-</a>   
-<a href="https://twitter.com/Siva__nandh">
-<img height="30" width="30" src="https://github.com/Sivanandhpp/Social-Meadia-Icons-master/blob/master/Icons-logos/twitter-circle.png" width="60">
-</a>
+- 👨‍💻 All of my projects are available at [https://sivanandhpp.github.io/](https://sivanandhpp.github.io/)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sivanandhpp&show_icons=true&hide_border=true" />
+- 💬 Ask me about **Any Tech related stuffs**
+
+- 📫 How to reach me **sivanandhpp@gmail.com**
+
+- ⚡ Fun fact **Coding over Food**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanandhpp&layout=compact&hide=html" alt="sivanandhpp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivanandhpp&show_icons=true" alt="sivanandhpp" /></p>
+
+<p align="center">
+<a href="https://twitter.com/siva__nandh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="siva__nandh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/sivanandh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sivanandh" height="30" width="30" /></a>
+<a href="https://fb.com/i.sivanandh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="i.sivanandh" height="30" width="30" /></a>
+<a href="https://instagram.com/siva_nandh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="siva_nandh" height="30" width="30" /></a>
+</p>
