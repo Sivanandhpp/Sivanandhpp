@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sivanandh PP</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Tech Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanandhpp" alt="sivanandhpp" /> </p>
 
