@@ -7,11 +7,11 @@ WEB / Android Developer
 I'm an aspiring software developer with a diverse team in a well-reputed organization. My strengths are programming, quick learning ability, problem-solving, and a positive attitude. I'm a quick learner in terms of technology.
 
 * 🌍  I'm based in Bangalore, India.
-* 🖥️  See my portfolio at [MyPortfolio](http://sivanandhpp.github.io/)
+* 🖥️  See my website at [sivanandhpp.github.io](http://sivanandhpp.github.io/)
 * ✉️  You can contact me at [sivanandhpp@gmail.com](mailto:sivanandhpp@gmail.com)
-* 🚀  I'm currently working on [Flutter Attendance Management App](http://github.com/Sivanandhpp/iMiN)
-* 🧠  I'm learning Kotlin for android development
-* 🤝  I'm open to collaborating on Android Application development
+* 🚀  I'm currently working on [one - The all in one app](http://github.com/Sivanandhpp/one)
+* 🧠  I'm currently learning Kotlin for android development
+* 🤝  I'm open to collaborations on Software Development
 * ⚡  I love coding over food<3
 
 ### Skills
