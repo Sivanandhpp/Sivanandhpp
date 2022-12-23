@@ -10,7 +10,7 @@ I'm an aspiring software developer with a diverse team in a well-reputed organiz
 * 🖥️  See my website at [sivanandhpp.github.io](http://sivanandhpp.github.io/)
 * ✉️  You can contact me at [sivanandhpp@gmail.com](mailto:sivanandhpp@gmail.com)
 * 🚀  I'm currently working on [one - The all in one app](http://github.com/Sivanandhpp/one)
-* 🧠  I'm currently learning Kotlin for android development
+* 🧠  I'm currently mastering Kotlin Android
 * 🤝  I'm open to collaborations on Software Development
 * ⚡  I love coding over food<3
 
