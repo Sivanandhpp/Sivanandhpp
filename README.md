@@ -50,6 +50,14 @@ LeetCode stats from my account.
 
 ![LeetCode](./metrics.plugin.leetcode.svg)
 
+## 💡 Coding Habits and Activity
+
+Coding habits based on recent activity, including active hours and languages.
+
+> Disclaimer: This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with GitHub. All product and company names are trademarks or registered trademarks of their respective holders.
+
+![Coding Habits](./metrics.plugin.habits.svg)
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/sivanandh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy me a coffee" /></a>
