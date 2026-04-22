@@ -1,0 +1,165 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[a4paper, margin=0.5in]{geometry}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage[T1]{fontenc}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Sivanandh PP} \\ \vspace{2pt}
+    \small +91 9072 7086 20 $|$ \href{mailto:sivanandhpp@gmail.com}{\underline{sivanandhpp@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/sivanandh}{\underline{linkedin.com/in/sivanandh}} $|$
+    \href{https://github.com/sivanandhpp}{\underline{github.com/sivanandhpp}} $|$
+    \href{https://ftsivvv.web.app}{\underline{ftsivvv.web.app}} \\ \vspace{4pt}
+    \textit{\small Software Engineer with hands-on experience building mobile, full-stack, and AI-driven production applications.}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {JAIN (Deemed-to-be University)}{Bengaluru, India}
+      {Master of Computer Applications \textemdash{}  GPA: 3.4/4.0 (8.39/10)}{July 2024 -- May 2026}
+    \resumeSubheading
+      {Acharya Institutes (Affiliated with Bengaluru City University)}{Bengaluru, India}
+      {Bachelor of Computer Applications}{July 2019 -- March 2023}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Software Engineer Intern}{July 2025 -- Oct. 2025}
+      {ULTS Global}{UL Cyberpark, Kozhikode}
+      \resumeItemListStart
+        \resumeItem{Decomposed a coupled monolith into domain-isolated NestJS microservices (auth, orders, inventory) on PostgreSQL, enabling independent deploys and reducing p99 API latency by \textbf{62\%}.}
+        \resumeItem{Architected Docker Compose containerization for 6 services with environment-specific config injection, cutting provisioning time from \textbf{4 hours to 8 minutes} and eliminating staging/production drift.}
+        \resumeItem{Owned the Flutter client layer, designing an optimistic-update API abstraction over REST that improved perceived responsiveness and lifted session retention by \textbf{23\%}.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Flutter Developer Intern}{July 2025 -- Sept. 2025}
+      {ERE Business Solutions}{Sahya Cyberpark, Kozhikode}
+      \resumeItemListStart
+        \resumeItem{Profiled rendering bottlenecks via Flutter DevTools, isolating widget rebuild storms; restructured widget trees with \texttt{const} constructors and \texttt{RepaintBoundary}, stabilizing frame rate from \textbf{42 to 60 FPS}.}
+        \resumeItem{Designed a three-tier cache (in-memory LRU, Hive persistent, network) to prevent redundant fetches, cutting external API calls by \textbf{48\%} and screen load time from \textbf{1.4s to 0.7s}.}
+        \resumeItem{Traced memory retention across route transitions, fixing unreleased stream subscriptions and cache overflows; enforced scoped disposal, dropping memory baseline from \textbf{210 MB to 128 MB}.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{CodeAutopsy --- AI-Powered Code Analysis Platform} $|$ \emph{Tree-sitter, WebSockets, FastAPI}}{\href{https://github.com/sivanandhpp/CodeAutopsy}{\underline{Github}}}
+          \resumeItemListStart
+            \resumeItem{Designed a Tree-sitter AST engine with 200+ rules and distributed BFS taint tracking, replacing Semgrep to gain rule-level control and achieving \textbf{87\% precision} with only \textbf{8\% false positives}.}
+            \resumeItem{Architected SimHash content-addressable caching with git-diff scoping so unchanged AST subtrees skip re-analysis, collapsing scan time from \textbf{120s to 3s} at a \textbf{78\% cache hit rate}.}
+            \resumeItem{Built WebSocket + Yjs CRDT collaborative review for \textbf{500 concurrent users at \textless{}50ms latency}; exported fine-tuned CodeBERT to ONNX for \textbf{10$\times$ faster} runtime inference.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{SmartKisan --- Agricultural AI Diagnosis Platform} $|$ \emph{ReactJS, Gemini API, Python}}{\href{https://smartkisanproj.web.app/}{\underline{Website}}}
+          \resumeItemListStart
+            \resumeItem{Architected a serverless Gemini API inference pipeline with agriculturally conditioned prompts, eliminating GPU costs entirely and classifying plant diseases in \textbf{under 2s end-to-end}.}
+            \resumeItem{Built adaptive Python pre-processing (compression + normalization) to standardize camera-variant inputs, reducing payload size by \textbf{65\%} and monthly bandwidth cost by \textbf{\$120}.}
+            \resumeItem{Engineered a structured ReactJS output layer decoupling inference from presentation, enabling new crop types without UI changes and driving a \textbf{3.2$\times$ uplift} in recommendation uptake.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Future Summit --- Live Event Coordination App for }{\href{https://futuresummit.in}{\underline{futuresummit.in}}} $|$ \emph{Flutter, Firebase}}{\href{https://play.google.com/store/apps/details?id=com.futuresummit.attendee}{\underline{Playstore}}}
+          \resumeItemListStart
+            \resumeItem{Designed Firebase Realtime Database node structure to broadcast schedule and map updates to \textbf{200+ concurrent clients in under 300ms} without fan-out bottlenecks.}
+            \resumeItem{Owned full delivery from architecture to Play Store in \textbf{under 3 weeks}, prioritizing sync reliability over scope and achieving zero downtime during the live event.}
+            \resumeItem{Architected offline-first state with deterministic local cache fallback, keeping core flows functional during network drops and reducing session abandonment by \textbf{31\%}.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, JavaScript/TypeScript, Java, C/C++, SQL, Dart} \\
+     \textbf{Frameworks \& Libraries}{: FastAPI, Node.js, NestJS, ReactJS, Flutter, Tree-sitter, ONNX Runtime} \\
+     \textbf{Infrastructure \& Tools}{: PostgreSQL, Redis, Docker, Firebase, Git, WebSockets, Figma} \\
+     \textbf{AI/ML}{: CodeBERT (fine-tuning), Gemini API, LLM integration, taint analysis, static analysis}
+    }}
+ \end{itemize}
+\vspace{10pt}
+\begin{center}
+    \small 
+    \href{https://linkedin.com/in/sivanandh}{\underline{linkedin.com/in/sivanandh}} $|$ 
+    \href{https://github.com/sivanandhpp}{\underline{github.com/sivanandhpp}} $|$
+    \href{https://leetcode.com/sivanandh}{\underline{leetcode.com/sivanandh}} $|$
+    \href{https://hackerrank.com/sivanandhpp}{\underline{hackerrank.com/sivanandhpp}}
+\end{center}
+
+\end{document}

@@ -25,6 +25,16 @@ jobs:
           - filename: metrics.classic.svg
             base: header, repositories
             plugin_lines: yes
+          - filename: metrics.plugin.achievements.svg
+            plugin_achievements: yes
+            plugin_achievements_display: compact
+            base: ""
+          - filename: metrics.plugin.habits.svg
+            plugin_habits: yes
+            plugin_habits_from: 200
+            plugin_habits_days: 14
+            plugin_habits_charts: yes
+            base: ""
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -38,3 +48,9 @@ jobs:
           plugin_leetcode_user: ${{ matrix.plugin_leetcode_user || '' }}
           plugin_leetcode_sections: ${{ matrix.plugin_leetcode_sections || '' }}
           plugin_lines: ${{ matrix.plugin_lines || 'no' }}
+          plugin_achievements: ${{ matrix.plugin_achievements || 'no' }}
+          plugin_achievements_display: ${{ matrix.plugin_achievements_display || '' }}
+          plugin_habits: ${{ matrix.plugin_habits || 'no' }}
+          plugin_habits_from: ${{ matrix.plugin_habits_from || '' }}
+          plugin_habits_days: ${{ matrix.plugin_habits_days || '' }}
+          plugin_habits_charts: ${{ matrix.plugin_habits_charts || 'no' }}
