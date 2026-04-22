@@ -11,7 +11,6 @@ jobs:
     permissions:
       contents: write
     strategy:
-      max-parallel: 1
       matrix:
         include:
           - filename: metrics.classic.svg
