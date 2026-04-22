@@ -40,11 +40,15 @@ I am an aspiring software developer with a diverse team in a well-reputed organi
 
 ## 🈷️ Languages Activity
 
-This plugin can display which languages you use across all repositories you contributed to.
-
-> Disclaimer: This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with GitHub. All product and company names are trademarks or registered trademarks of their respective holders.
+Languages which i use across all repositories.
 
 ![Languages Activity](./metrics.plugin.languages.svg)
+
+## 🗳️ LeetCode
+
+LeetCode stats from my account.
+
+![LeetCode](./metrics.plugin.leetcode.svg)
 
 ## Support
 
