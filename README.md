@@ -38,6 +38,14 @@ I am an aspiring software developer with a diverse team in a well-reputed organi
 
 ![Isometric Calendar](./metrics.plugin.isocalendar.svg)
 
+## 🈷️ Languages Activity
+
+This plugin can display which languages you use across all repositories you contributed to.
+
+> Disclaimer: This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with GitHub. All product and company names are trademarks or registered trademarks of their respective holders.
+
+![Languages Activity](./metrics.plugin.languages.svg)
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/sivanandh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy me a coffee" /></a>
