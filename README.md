@@ -6,7 +6,7 @@
 
 Building clean, reliable apps for web and Android. Based in Bangalore, India.
 
-[Website](http://sivanandhpp.github.io/) · [Email](mailto:sivanandhpp@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sivanandh/) · [Instagram](http://www.instagram.com/siva_nandh) · [Twitter](https://www.twitter.com/Siva__nandh) · [Discord](https://discord.com/users/Sivanandh#5123) · [Facebook](https://www.facebook.com/i.sivanandh)
+[Website](http://ftsivvv.web.app/) · [Email](mailto:sivanandhpp@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sivanandh/) 
 
 <img src="https://komarev.com/ghpvc/?username=Sivanandhpp&style=flat-square" alt="Profile views" />
 
