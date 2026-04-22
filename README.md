@@ -54,11 +54,6 @@ LeetCode stats from my account.
 
 ![LeetCode](./metrics.plugin.leetcode.svg)
 
-## 💡 Coding Habits and Activity
-
-My coding habits based on recent activity, including active hours and languages.
-
-![Coding Habits](./metrics.plugin.habits.svg)
 
 ## Support
 
