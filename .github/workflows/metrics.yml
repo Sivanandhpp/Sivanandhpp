@@ -11,8 +11,12 @@ jobs:
     permissions:
       contents: write
     strategy:
+      max-parallel: 1
       matrix:
         include:
+          - filename: metrics.classic.svg
+            base: header, repositories
+            plugin_lines: yes
           - filename: metrics.plugin.isocalendar.svg
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
@@ -22,12 +26,10 @@ jobs:
             plugin_leetcode: yes
             plugin_leetcode_user: Sivanandh
             plugin_leetcode_sections: solved, skills, recent
-          - filename: metrics.classic.svg
-            base: header, repositories
-            plugin_lines: yes
           - filename: metrics.plugin.achievements.svg
             plugin_achievements: yes
             plugin_achievements_display: compact
+            plugin_achievements_secrets: yes
             base: ""
           - filename: metrics.plugin.habits.svg
             plugin_habits: yes
@@ -50,6 +52,7 @@ jobs:
           plugin_lines: ${{ matrix.plugin_lines || 'no' }}
           plugin_achievements: ${{ matrix.plugin_achievements || 'no' }}
           plugin_achievements_display: ${{ matrix.plugin_achievements_display || '' }}
+          plugin_achievements_secrets: ${{ matrix.plugin_achievements_secrets || 'yes' }}
           plugin_habits: ${{ matrix.plugin_habits || 'no' }}
           plugin_habits_from: ${{ matrix.plugin_habits_from || '' }}
           plugin_habits_days: ${{ matrix.plugin_habits_days || '' }}
