@@ -34,6 +34,10 @@ I am an aspiring software developer with a diverse team in a well-reputed organi
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivanandhpp" height="160" alt="GitHub streak" />
 </div>
 
+## 📗 Classic Template
+
+![Classic Template](./metrics.classic.svg)
+
 ## 📅 Commit Calendar
 
 ![Isometric Calendar](./metrics.plugin.isocalendar.svg)
@@ -52,9 +56,7 @@ LeetCode stats from my account.
 
 ## 💡 Coding Habits and Activity
 
-Coding habits based on recent activity, including active hours and languages.
-
-> Disclaimer: This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with GitHub. All product and company names are trademarks or registered trademarks of their respective holders.
+My coding habits based on recent activity, including active hours and languages.
 
 ![Coding Habits](./metrics.plugin.habits.svg)
 
